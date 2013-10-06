@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActionBarSherlock/library/ActionBarSherlock.iml" filepath="$PROJECT_DIR$/ActionBarSherlock/library/ActionBarSherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-mapviewballoons/android-mapviewballoons/android-mapviewballoons.iml" filepath="$PROJECT_DIR$/android-mapviewballoons/android-mapviewballoons/android-mapviewballoons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-mapviewballoons/android-mapviewballoons/android-mapviewballoons.iml" filepath="$PROJECT_DIR$/android-mapviewballoons/android-mapviewballoons/android-mapviewballoons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doGRT-Android.iml" filepath="$PROJECT_DIR$/doGRT-Android.iml" />
+    </modules>
+  </component>
+</project>
+
