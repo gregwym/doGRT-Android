@@ -21,8 +21,8 @@ import android.util.Log;
 public class DatabaseHelper extends SQLiteOpenHelper {	
     // The Database from GRT database
     private static String DB_PATH = Environment.getDataDirectory() + "/data/com.doLast.doGRT/databases/"; 
-    private static String DB_NAME = "GRT_GTFS_20130901.sqlite";
-    private static final int DB_VERSION = 7;
+    private static String DB_NAME = "GRT_GTFS_20130919.sqlite";
+    private static final int DB_VERSION = 8;
     
     private SQLiteDatabase myDataBase;
     private final Context myContext;
